@@ -14,5 +14,5 @@ handlers:
   upload: static/(.*\.(html|css|js))
 
 - url: /.*
-  script: app.js
+  script: server.js
   login: required
