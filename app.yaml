@@ -15,4 +15,4 @@ handlers:
 
 - url: /.*
   script: app.js
-  login: required
+  login: optional
